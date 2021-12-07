@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Hutty07
+- 💻 I love coding
 - 👀 I’m interested in Flutter and DRF
 - 🌱 I’m currently learning DRF
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me https://wa.me/2348151694336
 
 

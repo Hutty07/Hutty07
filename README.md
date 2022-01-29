@@ -3,7 +3,7 @@
 - 👀 I’m interested in Flutter and DRF
 - 🌱 I’m currently learning DRF
 - 💞️ I’m looking to collaborate on Flutter
-- 📫 How to reach me https://wa.me/2348151694336
+- 📫 How to reach me opedayo82@gmail.com
 
 
 <!---

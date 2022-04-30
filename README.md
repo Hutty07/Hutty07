@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hutty07
+- 👋 Hi, I’m Uthman Ahmed
 - 💻 I love coding
 - 👀 I’m interested in Flutter and DRF
 - 🌱 I’m currently learning DRF
